@@ -5,9 +5,9 @@ Welcome to the quantum notebooks!
 
 This repository contains a collection of quantum circuits and quantum algorithms in Python using [Qiskit](https://www.qiskit.org/). Their goal is to provide a hands-on approach to quantum computing: on the Jupyter notebooks, you will find implementations of what is usually only discussed theoretically.
 
-To get started, it is easy: you can run the notebooks online on [Binder](https://mybinder.org/v2/gh/IvanIsCoding/Quantum/master?filepath=index.ipynb). No installation is required!
+To get started, it is easy: you can run the notebooks online on [Binder](https://mybinder.org/v2/gh/daniel-dev-lab/Quantum/master?filepath=index.ipynb). No installation is required!
 
-Lastly, the codes are paired with dicussions on my [blogs about quantum computing](https://ivaniscoding.github.io/tags/quantum/). The discussions on the blog try to build an intuition behind the codes discussed here, so I invite you to check them out. 
+Lastly, the codes are paired with dicussions on my [blogs about quantum computing](https://daniel-dev-lab.github.io/tags/quantum/). The discussions on the blog try to build an intuition behind the codes discussed here, so I invite you to check them out. 
 
 ## List of Codes
 
