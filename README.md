@@ -1,4 +1,5 @@
-# Quantum [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/download/releases/3.7.0/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IvanIsCoding/Quantum/master?filepath=index.ipynb)
+# Quantum [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniel-dev-lab/Quantum/master?labpath=index.ipynb)
+
 
 Welcome to the quantum notebooks! 
 
